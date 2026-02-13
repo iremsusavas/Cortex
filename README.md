@@ -15,9 +15,9 @@
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Demo
 
-![Demo](docs/cortex.mp4)
+![Demo](docs/cortex.gif)
 
 *Ask anything → Watch 5 AI agents think, search, analyze, write, and review — all in real-time*
 
@@ -122,7 +122,7 @@ You: "What is AI?"
 ### Option 1: Docker
 
 ```bash
-git clone https://github.com/yourname/cortex.git
+git clone https://github.com/username/cortex.git
 cd cortex
 cp .env.example .env
 # Add ANTHROPIC_API_KEY or OPENAI_API_KEY + PRIMARY_LLM_PROVIDER=openai
