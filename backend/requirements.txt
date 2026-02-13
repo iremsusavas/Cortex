@@ -1,0 +1,42 @@
+# FastAPI & Server
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Pydantic
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Database
+sqlalchemy[asyncio]>=2.0.25
+aiosqlite>=0.19.0
+alembic>=1.13.0
+
+# LLM Providers
+anthropic>=0.18.0
+openai>=1.12.0
+
+# Vector DB & Embeddings
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+
+# Cache
+redis>=5.0.0
+
+# HTTP & Async
+httpx>=0.26.0
+aiohttp>=3.9.0
+
+# Web Scraping & Search
+beautifulsoup4>=4.12.0
+wikipedia>=1.4.0
+arxiv>=2.0.0
+
+# Utilities
+python-multipart>=0.0.6
+python-dotenv>=1.0.0
+tiktoken>=0.5.2
+uuid6>=2024.1.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.23.0
