@@ -122,7 +122,7 @@ You: "What is AI?"
 ### Option 1: Docker
 
 ```bash
-git clone https://github.com/username/cortex.git
+git clone https://github.com/iremsusavas/cortex.git
 cd cortex
 cp .env.example .env
 # Add ANTHROPIC_API_KEY or OPENAI_API_KEY + PRIMARY_LLM_PROVIDER=openai
